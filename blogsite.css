@@ -1,9 +1,21 @@
 .blog-logo
 {
- display: flex; 
+ display: inline-flex; 
 }
 
 .logo{
-    width: 102px;
-    height:102px;
+    width: 75px;
+    height:75px;
+    margin-left:245px;
+    border-radius: 40px;
+}
+
+.blog-title
+{
+ display: inline-flex; 
+ width: 250px;
+}
+
+.link1{
+    display:inline-flex;
 }
