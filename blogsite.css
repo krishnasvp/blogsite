@@ -1,0 +1,9 @@
+.blog-logo
+{
+ display: flex; 
+}
+
+.logo{
+    width: 102px;
+    height:102px;
+}
